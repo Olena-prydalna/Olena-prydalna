@@ -1,5 +1,7 @@
 ## Hello! I'm Olena
 
+![My GitHub Banner](animation.gif)
+
 - 👩🏻‍💻 I'm a future web developer.
 - 🎓 Currently studying at DCI (Digital Career Institute GmbH).
 - 🖥️ Learning both Frontend and Backend development.
