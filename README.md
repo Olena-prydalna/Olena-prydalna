@@ -11,4 +11,7 @@
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,tailwind,bootstrap,nodejs,express,mongodb,vite,vscode,postman,vercel" />
 
-![My GitHub Banner](animation.gif)
+<p align="center">
+  <img src="animation.gif" alt="Animated Banner" width="400" />
+</p>
+
