@@ -1,7 +1,5 @@
 ## Hello! I'm Olena
 
-![My GitHub Banner](animation.gif)
-
 - 👩🏻‍💻 I'm a future web developer.
 - 🎓 Currently studying at DCI (Digital Career Institute GmbH).
 - 🖥️ Learning both Frontend and Backend development.
@@ -12,3 +10,5 @@
 ## Technologies & Tools
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,tailwind,bootstrap,nodejs,express,mongodb,vite,vscode,postman,vercel" />
+
+![My GitHub Banner](animation.gif)
