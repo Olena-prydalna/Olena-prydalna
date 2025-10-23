@@ -1,6 +1,6 @@
 ## Hello! I'm Olena
 
-- 👩🏻‍💻 I'm a future web developer.
+- 👩🏻‍💻 I'm a junior web developer.
 - 🎓 Currently studying at DCI (Digital Career Institute GmbH).
 - 🖥️ Learning both Frontend and Backend development.
 - 🌿 I find inspiration in nature, music, good books, and little journeys to new places  
