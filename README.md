@@ -1,8 +1,8 @@
 ## Hello! I'm Olena
 
 - 👩🏻‍💻 I'm a Junior Web Developer.
-- 🎓 Currently studying at DCI (Digital Career Institute GmbH).
-- 🖥️ Learning both Frontend and Backend development.
+- 🎓 Completed training in Web and Software Development at DCI (Digital Career Institute GmbH).
+- 🖥️ Skills in Frontend and Backend development.
 - 🌿 I find inspiration in nature, music, good books, and little journeys to new places  
 - 🎨 Recently, I've been experimenting with and learning Midjourney  
 - 📖 I'm open to learning new things and expanding my skills
